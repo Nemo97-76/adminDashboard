@@ -9,5 +9,5 @@
   <li>CSS</li>
 </ul>
 <span>feel free to concat me</span><br>
-<span>LinkedIn: <a href="https://www.linkedin.com/in/tasneem-youssef-770708278">LinkedIn</a>
+<span>LinkedIn: <a href="https://www.linkedin.com/in/tasneem-youssef-770708278">LinkedIn</a><br>
 <span>you can view a live version of this admin dashboard at Live Preview :<a href="https://admin-dashboard-76.netlify.app/">Demo</a></span>
